@@ -24,9 +24,9 @@ const balanceSize = 16                      // Category balance
 const groupTitleSize = 12                   // Title line
 const footerTextSize = 10                   // Footer line
 
-// Text colors
-const groupTitleColor = Color.gray()        // Title line color
-const footerTextColor = Color.gray()        // Footer line color
+// Text colors (dynamic)
+const groupTitleColor = Color.dynamic(Color.black(), Color.white())   // Title adapts to theme
+const footerTextColor = Color.dynamic(Color.darkGray(), Color.lightGray()) // Footer adapts to theme
 const positiveColor = Color.green()         // Balance > 0
 const zeroColor = Color.gray()              // Balance = 0
 const negativeColor = Color.red()           // Balance < 0
@@ -186,7 +186,7 @@ if (!targetGroup) {
 
     const nameTxt = stack.addText(cat.name)
     nameTxt.font = Font.systemFont(textSize)
-    nameTxt.textColor = Color.white()
+    nameTxt.textColor = Color.dynamic(Color.black(), Color.white()) // ✅ Dynamic category text
 
     stack.addSpacer()
 
