@@ -61,6 +61,12 @@ You can adjust:
 - How far back in time the widget should search for uncategorised transactions
 - Refresh intervals (manually, if desired)
 
+## 🪁 More widgets
+
+Check out these additional widgets:
+- [Savings Rate](./savings-rate/README.md)
+- [Net Worth](./net-worth/README.md)
+
 ## 🧑‍💻 Credits
 
 Uses:
