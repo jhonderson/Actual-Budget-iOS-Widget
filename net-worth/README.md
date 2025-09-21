@@ -4,9 +4,9 @@ It displays the daily total amount of money across all your accounts, including 
 
 ## 📷 Widget Preview
 
-![Net Worth  Light Preview](./Net_Worth_Light_Preview.png)
+![Net Worth  Light Preview](./Net_Worth_Light_Preview.PNG)
 
-![Net Worth  Dark Preview](./Net_Worth_Dark_Preview.png)
+![Net Worth  Dark Preview](./Net_Worth_Dark_Preview.PNG)
 
 ## 🚀 Setup
 

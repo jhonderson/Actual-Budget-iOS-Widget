@@ -4,9 +4,9 @@ It displays the monthly savings rate. The savings rate of a month is calculated 
 
 ## 📷 Widget Preview
 
-![Savings Rate Light Preview](./Savings_Rate_Light_Preview.png)
+![Savings Rate Light Preview](./Savings_Rate_Light_Preview.PNG)
 
-![Savings Rate Dark Preview](./Savings_Rate_Dark_Preview.png)
+![Savings Rate Dark Preview](./Savings_Rate_Dark_Preview.PNG)
 
 ## 🚀 Setup
 
